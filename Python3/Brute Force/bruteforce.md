@@ -81,7 +81,7 @@ brute_force()
 ### How to Run
 Execute the script from your terminal providing the target URL, username file, and password file as arguments:
 ```bash
-$ python3 scripts/bruteforce.py https://example.com/login.php passwords.txt username.txt
+$ python3 bruteforce.py https://example.com/login.php passwords.txt username.txt
 ```
 
 Alternatively, you can make the script executable and run it directly:
